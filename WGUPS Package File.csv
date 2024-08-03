@@ -1,0 +1,44 @@
+"Package
+ID",Address,City ,State,Zip,"Delivery
+Deadline","Mass
+KILO",
+1,195 W Oakland Ave,Salt Lake City,UT,84115,1030,21,0
+2,2530 S 500 E,Salt Lake City,UT,84106,2400,44,0
+3,233 Canyon Rd,Salt Lake City,UT,84103,2400,2,1.2
+4,380 W 2880 S,Salt Lake City,UT,84115,2400,4,0
+5,410 S State St,Salt Lake City,UT,84111,2400,5,0
+6,3060 Lester St,West Valley City,UT,84119,1030,88,2.905
+7,1330 2100 S,Salt Lake City,UT,84106,2400,8,0
+8,300 State St,Salt Lake City,UT,84103,2400,9,0
+9,300 State St,Salt Lake City,UT,84103,2400,2,3.1020.410 S State St
+10,600 E 900 South,Salt Lake City,UT,84105,2400,1,0
+11,2600 Taylorsville Blvd,Salt Lake City,UT,84118,2400,1,0
+12,3575 W Valley Central Station bus Loop,West Valley City,UT,84119,2400,1,0
+13,2010 W 500 S,Salt Lake City,UT,84104,1030,2,4.13.14.15.16.19.20
+14,4300 S 1300 E,Millcreek,UT,84117,1030,88,4.13.14.15.16.19.20
+15,4580 S 2300 E,Holladay,UT,84117,900,4,4.13.14.15.16.19.20
+16,4580 S 2300 E,Holladay,UT,84117,1030,88,4.13.14.15.16.19.20
+17,3148 S 1100 W,Salt Lake City,UT,84119,2400,2,0
+18,1488 4800 S,Salt Lake City,UT,84123,2400,6,1.2
+19,177 W Price Ave,Salt Lake City,UT,84115,2400,37,4.13.14.15.16.19.20
+20,3595 Main St,Salt Lake City,UT,84115,1030,37,4.13.14.15.16.19.20
+21,3595 Main St,Salt Lake City,UT,84115,2400,3,0
+22,6351 South 900 East,Murray,UT,84121,2400,2,0
+23,5100 South 2700 West,Salt Lake City,UT,84118,2400,5,0
+24,5025 State St,Murray,UT,84107,2400,7,0
+25,5383 South 900 East #104,Salt Lake City,UT,84117,1030,7,2.905
+26,5383 South 900 East #104,Salt Lake City,UT,84117,2400,25,0
+27,1060 Dalton Ave S,Salt Lake City,UT,84104,2400,5,0
+28,2835 Main St,Salt Lake City,UT,84115,2400,7,2.905
+29,1330 2100 S,Salt Lake City,UT,84106,1030,2,0
+30,300 State St,Salt Lake City,UT,84103,1030,1,0
+31,3365 S 900 W,Salt Lake City,UT,84119,1030,1,0
+32,3365 S 900 W,Salt Lake City,UT,84119,2400,1,2.905
+33,2530 S 500 E,Salt Lake City,UT,84106,2400,1,0
+34,4580 S 2300 E,Holladay,UT,84117,1030,2,0
+35,1060 Dalton Ave S,Salt Lake City,UT,84104,2400,88,0
+36,2300 Parkway Blvd,West Valley City,UT,84119,2400,88,1.2
+37,410 S State St,Salt Lake City,UT,84111,1030,2,0
+38,410 S State St,Salt Lake City,UT,84111,2400,9,1.2
+39,2010 W 500 S,Salt Lake City,UT,84104,2400,9,0
+40,380 W 2880 S,Salt Lake City,UT,84115,1030,45,0
